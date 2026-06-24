@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
