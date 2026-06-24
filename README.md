@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -32,8 +33,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
