@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
