@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
