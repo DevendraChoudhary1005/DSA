@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevendraChoudhary1005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevendraChoudhary1005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
