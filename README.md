@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevendraChoudhary1005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
