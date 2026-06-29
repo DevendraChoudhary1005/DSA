@@ -116,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/DevendraChoudhary1005/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
