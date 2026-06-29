@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/DevendraChoudhary1005/DSA/tree/master/2469-convert-the-temperature) |
 ## Number Theory
 |  |
 | ------- |
