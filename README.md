@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevendraChoudhary1005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -169,8 +172,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/DevendraChoudhary1005/DSA/tree/master/0069-sqrtx) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/DevendraChoudhary1005/DSA/tree/master/0326-power-of-three) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
