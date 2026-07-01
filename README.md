@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
