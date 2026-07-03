@@ -3,21 +3,19 @@ class Solution:
         result = []
         nums.sort()
 
-        def solve(index, target, subset, curr_sum):
-            if curr_sum == target:
+        def backTrack(index, total, subset):
+            if total == 0:
                 result.append(subset.copy())
                 return
-            elif curr_sum > target:
+            if total<0 or index>=len(nums):
                 return
-            
+
             for i in range(index, len(nums)):
                 if i>index and nums[i] == nums[i-1]:
                     continue
-
                 subset.append(nums[i])
-                solve(i+1, target, subset, curr_sum+nums[i])
+                backTrack(i+1, total-nums[i], subset)
                 subset.pop()
 
-        solve(0, target, [], 0)
-
+        backTrack(0, target, [])
         return result
