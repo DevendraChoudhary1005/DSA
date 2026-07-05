@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/DevendraChoudhary1005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/DevendraChoudhary1005/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/DevendraChoudhary1005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/DevendraChoudhary1005/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DevendraChoudhary1005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
