@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevendraChoudhary1005/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DevendraChoudhary1005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevendraChoudhary1005/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevendraChoudhary1005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
