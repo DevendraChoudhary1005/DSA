@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0216-combination-sum-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/1288-remove-covered-intervals) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/DevendraChoudhary1005/DSA/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/DevendraChoudhary1005/DSA/tree/master/2469-convert-the-temperature) |
