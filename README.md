@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevendraChoudhary1005/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/DevendraChoudhary1005/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DevendraChoudhary1005/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/DevendraChoudhary1005/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DevendraChoudhary1005/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
