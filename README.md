@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/DevendraChoudhary1005/DSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
