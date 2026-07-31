@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/DevendraChoudhary1005/DSA/tree/master/0326-power-of-three) |
 ## Union-Find
 |  |
