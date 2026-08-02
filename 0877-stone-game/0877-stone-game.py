@@ -1,6 +1,6 @@
 class Solution:
     def stoneGame(self, piles: List[int]) -> bool:
-        n = len(piles)
+        """ n = len(piles)
         dp = piles.copy()
 
         for length in range(2, n + 1):
@@ -8,4 +8,5 @@ class Solution:
             j = i + length - 1
             dp[i] = max(piles[i] - dp[i + 1], piles[j] - dp[i])
 
-        return dp[0] >= 0
+        return dp[0] >= 0"""
+        return True
