@@ -6,4 +6,5 @@ class Solution:
             remaining = target - nums[i]
             if remaining in hash_map:
                 return (hash_map[remaining], i)
+
             hash_map[nums[i]] = i
