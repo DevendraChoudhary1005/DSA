@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/DevendraChoudhary1005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DevendraChoudhary1005/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevendraChoudhary1005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0877-stone-game) |
