@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
