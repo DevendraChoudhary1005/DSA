@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0283-move-zeroes) |
