@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/DevendraChoudhary1005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DevendraChoudhary1005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DevendraChoudhary1005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DevendraChoudhary1005/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/DevendraChoudhary1005/DSA/tree/master/0326-power-of-three) |
