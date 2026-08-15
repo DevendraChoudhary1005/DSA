@@ -1,17 +1,24 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        mapping = {")":"(", "}":"{", "]":"["}
 
-        for char in s:
-            if char in mapping:
-                top_element = stack.pop() if stack else "#"
-
-                if mapping[char] != top_element:
-                    return False
-
+        for bracket in s:
+            if bracket == "(" or bracket == "{" or bracket == "[":
+                stack.append(bracket)
             else:
-                stack.append(char)
-
+                if len(stack) == 0:
+                    return False
+                ch = stack.pop()
+                if (
+                    (bracket ==")" and ch =="(")
+                    or (bracket =="}" and ch =="{")
+                    or (bracket =="]" and ch =="[")):
+                    continue
+                else:
+                    return False
+        
         return len(stack) == 0
+
+
+
         
