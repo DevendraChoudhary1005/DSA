@@ -440,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DevendraChoudhary1005/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
