@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevendraChoudhary1005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DevendraChoudhary1005/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevendraChoudhary1005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
