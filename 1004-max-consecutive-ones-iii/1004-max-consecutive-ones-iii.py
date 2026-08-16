@@ -24,7 +24,7 @@ class Solution:
         while r < n:
             if nums[r] == 0:
                 zeros += 1
-            while zeros > k:
+            if zeros > k:
                 if nums[l] == 0:
                     zeros -= 1
                 l += 1
