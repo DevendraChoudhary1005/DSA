@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/DevendraChoudhary1005/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/1288-remove-covered-intervals) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevendraChoudhary1005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevendraChoudhary1005/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/DevendraChoudhary1005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/DevendraChoudhary1005/DSA/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
