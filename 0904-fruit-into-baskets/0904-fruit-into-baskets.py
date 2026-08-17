@@ -4,7 +4,7 @@ class Solution:
         max_len = 0
         total_fruits = {}
 
-        for right in range(len(fruits)):
+        for right in range(0, len(fruits)):
             current_fruit = fruits[right]
             total_fruits[current_fruit] = total_fruits.get(current_fruit, 0) + 1
 
