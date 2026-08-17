@@ -8,7 +8,7 @@ class Solution:
             current_fruit = fruits[right]
             total_fruits[current_fruit] = total_fruits.get(current_fruit, 0) + 1
 
-            while len(total_fruits) > 2:
+            if len(total_fruits) > 2:
                 left_fruit = fruits[left]
                 total_fruits[left_fruit] -= 1
 
