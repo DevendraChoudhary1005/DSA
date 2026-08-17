@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DevendraChoudhary1005/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevendraChoudhary1005/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevendraChoudhary1005/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/DevendraChoudhary1005/DSA/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevendraChoudhary1005/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DevendraChoudhary1005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevendraChoudhary1005/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevendraChoudhary1005/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/DevendraChoudhary1005/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
