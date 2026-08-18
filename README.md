@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/DevendraChoudhary1005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0088-merge-sorted-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/DevendraChoudhary1005/DSA/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0877-stone-game) |
