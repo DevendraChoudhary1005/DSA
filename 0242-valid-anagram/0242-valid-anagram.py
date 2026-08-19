@@ -3,17 +3,17 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        count = {}
+        count1 = {}
 
         for char in s:
-            count[char] = count.get(char, 0) + 1
+            count1[char] = count1.get(char, 0) + 1
 
         count2 = {}
 
         for char in t:
             count2[char] = count2.get(char, 0) + 1
 
-        return count == count2         
+        return count1 == count2       
 
         
 
