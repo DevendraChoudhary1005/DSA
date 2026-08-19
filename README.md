@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevendraChoudhary1005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevendraChoudhary1005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
