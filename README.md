@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/DevendraChoudhary1005/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0414-third-maximum-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/DevendraChoudhary1005/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DevendraChoudhary1005/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DevendraChoudhary1005/DSA/tree/master/0645-set-mismatch) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DevendraChoudhary1005/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevendraChoudhary1005/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0414-third-maximum-number) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/DevendraChoudhary1005/DSA/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/DevendraChoudhary1005/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DevendraChoudhary1005/DSA/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevendraChoudhary1005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/DevendraChoudhary1005/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
