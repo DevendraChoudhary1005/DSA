@@ -12,4 +12,4 @@ class Solution:
             if total < 0:
                 total = 0
 
-        return max_sum 
+        return max_sum
