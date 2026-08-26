@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/DevendraChoudhary1005/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DevendraChoudhary1005/DSA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/DevendraChoudhary1005/DSA/tree/master/0735-asteroid-collision) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/DevendraChoudhary1005/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/DevendraChoudhary1005/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DevendraChoudhary1005/DSA/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/1288-remove-covered-intervals) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/DevendraChoudhary1005/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/DevendraChoudhary1005/DSA/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/DevendraChoudhary1005/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/DevendraChoudhary1005/DSA/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
