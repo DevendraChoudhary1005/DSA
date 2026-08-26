@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/DevendraChoudhary1005/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/DevendraChoudhary1005/DSA/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DevendraChoudhary1005/DSA/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/DevendraChoudhary1005/DSA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DevendraChoudhary1005/DSA/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/DevendraChoudhary1005/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/DevendraChoudhary1005/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
