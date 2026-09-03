@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/DevendraChoudhary1005/DSA/tree/master/0217-contains-duplicate) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevendraChoudhary1005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DevendraChoudhary1005/DSA/tree/master/0326-power-of-three) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/DevendraChoudhary1005/DSA/tree/master/2413-smallest-even-multiple) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -579,4 +583,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DevendraChoudhary1005/DSA/tree/master/0455-assign-cookies) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
