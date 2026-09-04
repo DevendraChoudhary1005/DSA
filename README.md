@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/DevendraChoudhary1005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/DevendraChoudhary1005/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/DevendraChoudhary1005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevendraChoudhary1005/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DevendraChoudhary1005/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/DevendraChoudhary1005/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/DevendraChoudhary1005/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DevendraChoudhary1005/DSA/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
