@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/DevendraChoudhary1005/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/DevendraChoudhary1005/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0078-subsets) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/DevendraChoudhary1005/DSA/tree/master/0735-asteroid-collision) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DevendraChoudhary1005/DSA/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0566-reshape-the-matrix) |
