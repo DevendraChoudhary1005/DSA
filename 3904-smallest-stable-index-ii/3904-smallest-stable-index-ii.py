@@ -15,9 +15,7 @@ class Solution:
             max_nums[i] = max(max_nums[i-1], nums[i])
 
         for i in range(n):
-            if max_nums[i] - min_nums[i] > k:
-                continue
-            else:
+            if max_nums[i] - min_nums[i] <= k:
                 return i
 
         return -1
