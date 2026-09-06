@@ -618,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DevendraChoudhary1005/DSA/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [1407-top-travellers](https://github.com/DevendraChoudhary1005/DSA/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
