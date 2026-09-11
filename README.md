@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/DevendraChoudhary1005/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevendraChoudhary1005/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0566-reshape-the-matrix) |
+| [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DevendraChoudhary1005/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
