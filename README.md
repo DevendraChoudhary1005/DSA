@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevendraChoudhary1005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevendraChoudhary1005/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DevendraChoudhary1005/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevendraChoudhary1005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DevendraChoudhary1005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevendraChoudhary1005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/3731-find-missing-elements) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DevendraChoudhary1005/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevendraChoudhary1005/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevendraChoudhary1005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Recursion
