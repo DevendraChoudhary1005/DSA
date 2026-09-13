@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/DevendraChoudhary1005/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/DevendraChoudhary1005/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/DevendraChoudhary1005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/DevendraChoudhary1005/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DevendraChoudhary1005/DSA/tree/master/1329-sort-the-matrix-diagonally) |
