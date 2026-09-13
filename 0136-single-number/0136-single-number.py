@@ -1,8 +1,7 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        val = 0
+        counts = Counter(nums)
 
-        for i in nums:
-            val ^= i
+        result = min(counts, key = counts.get)
 
-        return val
+        return result
