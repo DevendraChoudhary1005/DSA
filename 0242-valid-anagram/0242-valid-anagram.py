@@ -13,4 +13,4 @@ class Solution:
         for char in t:
             count2[char] = count2.get(char, 0) + 1
 
-        return count1 == count2       
+        return count1 == count2  
