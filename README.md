@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/DevendraChoudhary1005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/DevendraChoudhary1005/DSA/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
 | [3310-remove-methods-from-project](https://github.com/DevendraChoudhary1005/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/DevendraChoudhary1005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
