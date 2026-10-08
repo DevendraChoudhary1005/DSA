@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/DevendraChoudhary1005/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/DevendraChoudhary1005/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/DevendraChoudhary1005/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevendraChoudhary1005/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
