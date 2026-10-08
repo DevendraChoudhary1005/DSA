@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/0389-find-the-difference) |
 | [0856-score-of-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevendraChoudhary1005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/DevendraChoudhary1005/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/DevendraChoudhary1005/DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevendraChoudhary1005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DevendraChoudhary1005/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevendraChoudhary1005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DevendraChoudhary1005/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
