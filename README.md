@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevendraChoudhary1005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/DevendraChoudhary1005/DSA/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/1927-sum-game) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevendraChoudhary1005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/DevendraChoudhary1005/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DevendraChoudhary1005/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/DevendraChoudhary1005/DSA/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/DevendraChoudhary1005/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/DevendraChoudhary1005/DSA/tree/master/2029-stone-game-ix) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0856-score-of-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/DevendraChoudhary1005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevendraChoudhary1005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DevendraChoudhary1005/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
