@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1441-build-an-array-with-stack-operations](https://github.com/DevendraChoudhary1005/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevendraChoudhary1005/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevendraChoudhary1005/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/DevendraChoudhary1005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DevendraChoudhary1005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevendraChoudhary1005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevendraChoudhary1005/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevendraChoudhary1005/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/DevendraChoudhary1005/DSA/tree/master/1927-sum-game) |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DevendraChoudhary1005/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/DevendraChoudhary1005/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevendraChoudhary1005/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DevendraChoudhary1005/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -523,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevendraChoudhary1005/DSA/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -563,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -611,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevendraChoudhary1005/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevendraChoudhary1005/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevendraChoudhary1005/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -715,4 +724,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
