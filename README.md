@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/DevendraChoudhary1005/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevendraChoudhary1005/DSA/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DevendraChoudhary1005/DSA/tree/master/1329-sort-the-matrix-diagonally) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/DevendraChoudhary1005/DSA/tree/master/0872-leaf-similar-trees) |
+| [1254-number-of-closed-islands](https://github.com/DevendraChoudhary1005/DSA/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/DevendraChoudhary1005/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DevendraChoudhary1005/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/DevendraChoudhary1005/DSA/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevendraChoudhary1005/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/DevendraChoudhary1005/DSA/tree/master/3310-remove-methods-from-project) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/DevendraChoudhary1005/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevendraChoudhary1005/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevendraChoudhary1005/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/DevendraChoudhary1005/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/DevendraChoudhary1005/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/DevendraChoudhary1005/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/DevendraChoudhary1005/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/DevendraChoudhary1005/DSA/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DevendraChoudhary1005/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DevendraChoudhary1005/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
