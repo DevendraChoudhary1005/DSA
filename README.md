@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/DevendraChoudhary1005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/DevendraChoudhary1005/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DevendraChoudhary1005/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/DevendraChoudhary1005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevendraChoudhary1005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DevendraChoudhary1005/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DevendraChoudhary1005/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -758,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DevendraChoudhary1005/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DevendraChoudhary1005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
