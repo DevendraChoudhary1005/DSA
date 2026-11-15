@@ -18,7 +18,7 @@ class Solution:
             else:
                 dec_count = 1
 
-            max_len = max(inc_count, dec_count, max_len)
+            max_len = max(max_len, inc_count, dec_count)
 
         return max_len
 
